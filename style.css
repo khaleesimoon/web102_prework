@@ -20,7 +20,20 @@ body {
 }
 
 .stats-container {
-    display: flex;
+    display: flex; /* activates Flexbox.*/
+    /* background-color: teal; */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    align-items: center; /* Aligns items vertically in the container */
+    justify-content: space-around; /* Optional: spaces out the stat cards evenly */
+    transition: box-shadow 0.3s ease; /*  makes the hover effect feel smooth */
+
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {

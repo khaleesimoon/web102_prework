@@ -20,10 +20,9 @@ The following **optional** features are implemented:
 * [x] Search Bar for game name, description
 
 ## Video Walkthrough
+Here's a walkthrough of implemented features:
 
-web102 submission-Cthulhu Games -S.M. - Watch Video
-
-
+<img src='https://www.loom.com/embed/3f83f86547ac47928b6286936ed229b4?sid=fdf02c47-5e32-4d8a-88ad-b2c09836bcce' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with loom

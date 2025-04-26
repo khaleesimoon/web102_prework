@@ -23,18 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!--
-<img src='[https://www.loom.com/share/461357c2d7894108b2213f9e945e6539?sid=325da806-00ed-4019-8c85-8c8d871b8dbd]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
--->
 
-<div>
-    <a href="https://www.loom.com/share/461357c2d7894108b2213f9e945e6539">
-      <p>Web 102 Pre-Work Submission Overview - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/461357c2d7894108b2213f9e945e6539">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/461357c2d7894108b2213f9e945e6539-0d77f8c59968b165-full-play.gif">
-    </a>
-  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with loom
 

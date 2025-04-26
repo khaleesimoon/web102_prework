@@ -22,8 +22,13 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/embed/3f83f86547ac47928b6286936ed229b4?sid=fdf02c47-5e32-4d8a-88ad-b2c09836bcce' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<div>
+    </a>
+    <a href="https://www.loom.com/share/3f83f86547ac47928b6286936ed229b4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3f83f86547ac47928b6286936ed229b4-96db5f906ca0bd08-full.jpg">
+    </a>
+  </div>
+  
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with loom
 
